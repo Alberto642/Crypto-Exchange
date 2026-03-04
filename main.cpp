@@ -2,7 +2,7 @@
 #include "exchange.hpp"
 #include "utility.hpp"
 #include <sstream>
-
+//Example use
 int main() {
   Exchange e;
   std::ostringstream oss;
