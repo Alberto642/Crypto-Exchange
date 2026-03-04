@@ -27,9 +27,11 @@ Developed in WSL/Ubuntu with modular class design to manage users, trades, and a
 Open terminal in the project folder:
 
 ```bash
-g++ main.cpp exchange.cpp useraccount.cpp utility.cpp -Wall
-./a.out
+g++ main.cpp exchange.cpp useraccount.cpp utility.cpp -Wall -o CryptoExchange
+./CryptoExchange
 ```
 - In main.cpp place user inputs through making deposits, withdrawls, adding orders to marketplace, checking trade history etc.
 ## Example Use
 ![Example input](ExSS.png)
+## Example Output
+![Example input](ExSS2.png)
