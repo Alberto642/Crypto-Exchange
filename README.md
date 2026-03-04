@@ -31,3 +31,5 @@ g++ main.cpp exchange.cpp useraccount.cpp utility.cpp -Wall
 ./a.out
 ```
 - In main.cpp place user inputs through making deposits, withdrawls, adding orders to marketplace, checking trade history etc.
+## Example Use
+![Example input](ExSS.png)
