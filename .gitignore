@@ -1,0 +1,11 @@
+# Compiled output
+*.o
+*.out
+*.exe
+*.a
+
+# Build directories
+build/
+
+# VS Code settings
+.vscode/
