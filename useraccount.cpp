@@ -1,6 +1,5 @@
 #include "useraccount.hpp"
 
-// WRITE YOUR CODE HERE
   UserAccount:: UserAccount (std::string name):n(name){}
 
   void UserAccount:: Deposit(std::string asset, int amount)
@@ -17,10 +16,6 @@
     else
     {
         Portfolio[asset]-=amount;
-        /*if (Portfolio[asset]==0)
-        {
-            Portfolio.erase(asset);
-        }*/
     }
      return success;
   }

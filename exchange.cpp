@@ -1,5 +1,5 @@
 #include "exchange.hpp"
-// WRITE YOUR CODE HERE
+
 void Exchange:: MakeDeposit(std::string username, std::string asset,
     int amount)
     {

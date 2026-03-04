@@ -8,8 +8,6 @@
 
 class UserAccount {
 
-// WRITE YOUR CODE HERE
-  // Suggestions:
  private:
   std::string n;
 

@@ -8,7 +8,7 @@
 #include "utility.hpp"
 
 class Exchange {
-// WRITE YOUR CODE HERE
+  
  public:
   std::map <std::string,int> N_L{};
   std::vector<UserAccount> users{};
